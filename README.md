@@ -1,0 +1,1 @@
+# mapianist-checker
